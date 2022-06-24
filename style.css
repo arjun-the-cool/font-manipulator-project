@@ -1,0 +1,27 @@
+.header
+{
+    background-color: aqua;
+    text-align:center;
+    position: fixed;
+    font-size: 15px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px grey;
+}
+
+.copy-right-footer
+{
+    background-color: aqua;
+    position: fixed;
+    font-size: 15px;
+    color: black;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+canvas
+{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+}
